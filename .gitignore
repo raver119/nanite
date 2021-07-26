@@ -1,0 +1,7 @@
+build/
+node_modules/
+.idea/
+
+# output files should be ignored
+index.d.ts
+index.js
