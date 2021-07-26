@@ -1,5 +1,5 @@
 {
-  "name": "nanite-pubsub",
+  "name": "nano-pubsub",
   "description": "Primitive and tiny PubSub implementation",
   "version": "1.0.0",
   "keywords": [
