@@ -5,3 +5,5 @@ node_modules/
 # output files should be ignored
 index.d.ts
 index.js
+
+**/*.log
